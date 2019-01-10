@@ -1,0 +1,19 @@
+Hinweis:
+
+Damit das Puzzle einwandfrei funktioniert,
+müssen alle Dateien in den selben Ordner
+entpackt werden.
+
+Dann kann das Puzzle über die Datei "start.htm"
+aufgerufen werden.
+
+(Nicht die Datei "puzzle.htm" direkt anklicken,
+weil sonst die Größenanpassung und Anordnung
+der Puzzle-Teile nicht optimal funktioniert.)
+
+Der "Puzzle-Generator" ist ein kostenloser
+Service von www.onlinewahn.de und über die
+Internetadresse: www.onlinewahn de/generator
+verfügbar.
+
+Viel Spaß beim Puzzeln!  :-)

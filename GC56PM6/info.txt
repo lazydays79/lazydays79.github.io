@@ -1,0 +1,78 @@
+Wichtige Hinweise zum Einbau in Eure Homepage!
+
+Um das Puzzle für Eure Besucher im Internet zur
+Verfügung zu stellen, müsst Ihr alle Dateien, die
+in diesem ZIP-Archiv enthalten sind (außer diese
+Info-Textdatei) auf Euren Webspace hochladen, und
+zwar alle in das selbe Verzeichnis (selben Ordner).
+Hierfür könnt Ihr eventuell auch ein Unterverzeichnis
+mit dem Namen "puzzle" anlegen, in das Ihr die
+Dateien kopiert. Wenn Ihr mehrere Puzzles anbieten
+möchtet (z.B. unterschiedliche Motive oder Größen),
+benötigt jedes Puzzle einen eigenen Ordner, weil die
+Dateien bei jedem Puzzle die selben Namen haben.
+
+Ihr könnt das Puzzle auch in Blogs oder Profilseiten
+verlinken, aber Ihr benötigt in jedem Fall irgendwo
+einen eigenen Webspace, wo Ihr es hochladen könnt. Im
+Puzzle-Generator auf Onlinewahn stehen alle Puzzles
+grundsätzlich nur einige Minuten zur Verfügung und
+können später nicht mehr geladen werden. (Die Löschung
+erfolgt aus Datenschutz-Gründen, um auszuschließen,
+dass z.B. Puzzles mit persönlichen Bildern von anderen
+geladen werden können, und auch weil wir gar nicht die
+nötige Kapazität hätten, um die Puzzles dauerhaft zu
+speichern.)
+
+Beim Anklicken auf Eurer Homepage sollte das Puzzle
+in einem Popup-Fenster geöffnet werden. Nur so ist
+gewährleistet, dass die Größenanpassung und die
+Verteilung der Puzzleteile richtig funktionieren
+(und z.B. kein unnötiger Scrollbereich entsteht).
+
+Der hierfür benötigte Link-Code sieht so aus:
+
+<a href="puzzle.htm" target="puzzlefenster"
+onclick="window.open('','puzzlefenster','width=600,
+height=480,left=0,top=0,scrollbars=yes,status=no,
+toolbar=no,resizable=yes,menubar=no,location=no,
+dependent=no');"> Puzzle starten </a>
+
+Der Popup-Link verweist auf die Datei "puzzle.htm".
+Die Start-Datei "start.htm" wird in dem Fall nicht
+benötigt. Fall Ihr auf Eurer Homepage nicht die
+Möglichkeit habe, direkt den oben genannten Link-
+Quelltext einzusetzen, sondern nur einen normalen
+Link machen könnt, sollte dieser dagegen auf die
+Startdatei "start.htm" verweisen. Diese Datei
+enthält einen entsprechenden Link, der das Puzzle
+in einem Popup-Fenster öffnet.
+
+Das Puzzle funktioniert mit den gängigen Internet-
+Browsern "Internet-Explorer", "Firefox" und "Chrome".
+Das Popup-Fenster (egal ob es über den oben angegeben
+Quellcode oder mit dem Link in der "start-htm" Datei
+entsteht) wird bei den meisten Browsern nicht durch
+den Popup-Blocker blockiert. Falls doch, so öffnet
+sich das Puzzle einfach in einem normalen Fenster.
+
+Die Datei "gesamt.jpg " zeigt das gesamte Puzzle-
+Bild, das Ihr verkleinern und auf Eurer Homepage
+als Vorschau-Bild (oder Link) verwenden könnt. Das
+ist vor allem dann interessant, wenn ihr mehrere
+Puzzles anbietet. Bei "Überraschungs-Puzzles"
+(also Puzzles, bei denen die Option gewählt wurde,
+dass das fertige Puzzle am Anfang nicht angezeigt
+wird) ist allerdings auch diese "gesamt.jpg"
+Bild-Datei nicht enthalten.
+
+Die Nutzung des Puzzle-Generators (sowie auch der
+anderen Fun-Generatoren auf onlinewahn.de) ist
+grundsätzlich kostenlos, und auch das Puzzle für
+Eure eigene Homepage kostet nichts. Allerdings
+dürft Ihr dabei die Dateien nicht verändern.
+Insbesondere die darin enthaltenen Links müssen
+unverändert drin bleiben.
+
+Nun wünschen wir Euch und Euren Besuchern
+viel Spaß beim Puzzeln.  :-)
